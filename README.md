@@ -1,6 +1,6 @@
 <h1 align='center'> KodokuOdius desu~~ ᕦ(ò_óˇ)ᕤ </h1>
 
-![alt tag](https://www.codewars.com/users/Alan_Fox/badges/micro)
+![alt tag](https://www.codewars.com/users/KodokuOdius/badges/micro)
 ### 忙しくて孤独になるために ###
 
 
