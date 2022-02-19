@@ -2,7 +2,7 @@
 
 ![alt tag](https://www.codewars.com/users/KodokuOdius/badges/micro)
 ### 忙しくて孤独になるために ###
-
+> #peko_peko 🥕🥕🥕
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=KodokuOdius&count_private=true&show_icons=true&theme=dracula&include_all_commits=true">
 
