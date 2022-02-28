@@ -20,8 +20,7 @@
 - to be relax
 - to be like 秋葉 Hanaasagi
 
-<div align="center">
 ![alt tag](https://c.tenor.com/21J48OhClU0AAAAC/himawari-furutani.gif)
-</div>
+
 
 > rushia forever ❤❤❤
