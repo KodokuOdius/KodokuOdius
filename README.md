@@ -2,9 +2,8 @@
 
 ![alt tag](https://www.codewars.com/users/KodokuOdius/badges/micro)
 
-<hr>
 <h2> 忙しくて孤独になるために </h2>
-> #KonRushia ~~ 💀💀💀
+<h6> #KonRushia ~~ 💀💀💀 </h6>
 
 <div align='center'>
 
@@ -13,15 +12,19 @@
 <img align="left" width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=KodokuOdius&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
 
 </div>
-<br>
+
+<div align="right">
 <h3> Note: </h3>
-- learn, study and searh MORE!
-- to be busy
-- to be relax
-- to be like 秋葉 Hanaasagi
+<ul>
+<li> learn, study and searh MORE! </li>
+<li> to be busy </li>
+<li> to be relax </li>
+<li> to be like 秋葉 Hanaasagi </li>
+</ul>
 
 <br>
 ![alt tag](https://c.tenor.com/21J48OhClU0AAAAC/himawari-furutani.gif)
 
+</div>
 
-> rushia forever ❤❤❤
+<h6> Rushia forever ❤❤❤ </h6>
