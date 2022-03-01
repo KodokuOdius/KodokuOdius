@@ -22,10 +22,6 @@
  <img align="left" width="40%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=KodokuOdius&hide_border=true&layout=compact&card_width=275&card_width=400&bg_color=000000&title_color=d90000a5&text_color=fff">
 
  ![graph](https://activity-graph.herokuapp.com/graph?username=KodokuOdius&color=ff0000a2&bg_color=000000&hide_border=true&area=true)
-
- 
-
-
 </div>
 
 <div>
