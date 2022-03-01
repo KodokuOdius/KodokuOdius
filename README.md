@@ -17,7 +17,7 @@
 
 <div align="center" style="margin-top: 5px">
 
- <img align="left" width="58%" src="https://github-readme-stats.vercel.app/api?username=KodokuOdius&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&card_width=275&card_width=400&bg_color=000000&title_color=d90000a5&text_color=fff">
+ <img align="left" width="56%" src="https://github-readme-stats.vercel.app/api?username=KodokuOdius&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&card_width=275&card_width=400&bg_color=000000&title_color=d90000a5&text_color=fff">
 
  <img align="right" width="40%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=KodokuOdius&hide_border=true&layout=compact&card_width=275&card_width=400&bg_color=000000&title_color=d90000a5&text_color=fff">
 
