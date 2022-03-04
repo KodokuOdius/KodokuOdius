@@ -6,6 +6,7 @@
 
 <h2> 忙しくて孤独になるために </h2>
 <h5> #KonRushia ~~ 💀💀💀 </h5>
+<h5 style="background-color: #000000"> > Rushia forever ❤❤❤ </h5>
 <hr>
 <h3> Note: </h3>
 <ul>
@@ -29,6 +30,6 @@
 ![alt tag](https://c.tenor.com/PA93gcnU4oUAAAAC/gochuumon-dance-anime-dance.gif)
 </div>
 
-<h5 style="background-color: #000000"> > Rushia forever ❤❤❤ </h5>
+
 
 
