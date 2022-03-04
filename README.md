@@ -24,7 +24,7 @@
  ![graph](https://activity-graph.herokuapp.com/graph?username=KodokuOdius&color=ff0000a2&bg_color=000000&hide_border=true&area=true)
 </div>
 
-<div aligh='center'>
+<div align='center'>
 
 ![alt tag](https://c.tenor.com/PA93gcnU4oUAAAAC/gochuumon-dance-anime-dance.gif)
 </div>
