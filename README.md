@@ -1,6 +1,6 @@
 <h1 align="center"> KodokuOdius desu~~ ᕦ(ò_óˇ)ᕤ </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=d90000a5&lines=The+very+fresh+coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=d90001a5&lines=I+feel+like+a+fresh+programmer)](https://git.io/typing-svg)
 
 ![alt tag](https://www.codewars.com/users/KodokuOdius/badges/micro)
 
